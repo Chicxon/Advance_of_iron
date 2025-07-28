@@ -1,0 +1,64 @@
+characters = {
+    BLU_Olaf = {
+        name=BLU_Olaf
+		country_leader = {
+			ideology = conservatism
+			expire = "1965.1.1.1"
+		}
+        field_marshal={
+            traits={old_guard politically_connected inflexible_strategist winter_specialist winter_expert}
+            skill=3
+            attack_skill=3
+            defense_skill=3
+            planning_skill=2
+            logistics_skill=4
+        }
+    }
+    BLU_Grit = {
+        name=BLU_Grit
+        corps_commander={
+            traits={bearer_of_artillery trickster ambusher ranger}
+            skill=4
+            attack_skill=3
+            defense_skill=4
+            planning_skill=5
+            logistics_skill=2
+        }
+    }
+    BLU_Colin = {
+        name=BLU_Colin
+        corps_commander={
+            traits={scavenger}
+            skill=2
+            attack_skill=1
+            defense_skill=1
+            planning_skill=3
+            logistics_skill=6
+        }
+    }
+    BLU_Sasha = {
+        name=BLU_Sasha
+        corps_commander={
+            traits={scavenger trickster}
+            skill=2
+            attack_skill=2
+            defense_skill=2
+            planning_skill=3
+            logistics_skill=5
+        }
+    }
+    BLU_Rogenski = {
+        name=BLU_Rogenski
+        country_leader = {
+            ideology = despotism
+        }
+        field_marshal={
+            traits={old_guard politically_connected reckless harsh_leader}
+            skill=1
+            attack_skill=1
+            defense_skill=1
+            planning_skill=1
+            logistics_skill=1
+        }
+    }
+}
