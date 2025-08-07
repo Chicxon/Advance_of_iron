@@ -1,0 +1,7 @@
+continents = {
+	orange_star
+	blue_moon
+    yellow_comet
+	green_earth
+    black_hole
+}

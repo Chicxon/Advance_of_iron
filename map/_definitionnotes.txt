@@ -1,0 +1,17 @@
+### Original tiles, to prevent TOO LARGE BOX ###
+
+#Early reserved specific colours
+212;50;8
+20;20;212
+30;30;235
+35;25;245
+
+#Reserved colour spaces, don't touch these anymore
+Blue values 170-199 with red values 14-15 for ocean
+Red value 255 with blue value 255 for lakes
+Green values of 200 with 25 red are initial Green Earth Provinces
+
+Province 1 is Libertyville
+Provinces 2-543 are original sea tiles
+Provinces 544-554 are lake provinces
+Provinces 555-571 are initial Green Earth Provinces before moving to random hex codes

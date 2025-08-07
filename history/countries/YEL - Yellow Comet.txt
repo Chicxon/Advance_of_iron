@@ -14,14 +14,6 @@ recruit_character = YEL_AdmSensei
 recruit_character = YEL_Grimm
 recruit_character = YEL_AdmGrimm
 
-# Starting tech
-set_technology = {
-	infantry_weapons = 1
-	tech_trucks = 1
-	tech_support = 1
-	tech_recon = 1
-}
-
 set_politics = {
 	ruling_party = democratic
 	last_election = "1933.3.5"

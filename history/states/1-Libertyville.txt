@@ -1,0 +1,25 @@
+
+state={
+	id=1
+	name="STATE_1" # Libertyville, OS capital
+	manpower = 1322900
+	
+	state_category = town
+
+	history={
+		owner = ORG
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = ORG
+	}
+
+	provinces={
+		1
+	}
+
+	local_supplies=0.0 
+}
