@@ -6,7 +6,7 @@
 5;35;25;210;sea;true;ocean;1
 6;10;25;190;sea;true;ocean;1
 7;10;55;199;sea;false;ocean;1
-8;10;85;199;sea;false;ocean;1
+8;10;85;199;sea;false;ocean;1 
 9;10;105;199;sea;false;ocean;1
 10;10;135;199;sea;false;ocean;1
 11;10;165;199;sea;false;ocean;1
@@ -683,6 +683,3 @@
 682;234;0;123;land;true;plains;3
 683;153;233;197;land;true;plains;3
 684;17;51;71;land;false;plains;3
-685;48;48;61;land;false;unknown;0
-686;14;5;172;land;false;unknown;0
-687;20;20;235;land;false;unknown;0

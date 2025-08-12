@@ -1,0 +1,24 @@
+
+state={
+	id=3
+	name="pl state 2" # Libertyville, OS capital
+	manpower = 1322900
+	
+	state_category = town
+
+	history={
+		owner = ORG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = ORG
+	}
+
+	provinces={
+		686
+	}
+
+	local_supplies=0.0 
+}
