@@ -7,8 +7,8 @@ state = {
 	}
 	state_category = megalopolis
 	history = {
-		owner = P7V
-		add_core_of = P7V
+		owner = YEL
+		add_core_of = YEL
 		victory_points = {
 			2097 1
 		}

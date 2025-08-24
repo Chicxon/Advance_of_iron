@@ -1,7 +1,0 @@
-spriteTypes = {
-	spriteType = {
-		name = GFX_portrait_YEL_kanbei
-		texturefile = "gfx/leaders/YEL/Portrait_YEL_Kanbei.dds"
-	}
-
-}

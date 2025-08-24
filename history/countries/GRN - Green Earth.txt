@@ -1,0 +1,16 @@
+capital = 105
+
+recruit_character=GRN_Eagle
+recruit_character=GRN_Drake
+recruit_character=GRN_Jess
+recruit_character=GRN_Javier
+recruit_character=GRN_Hetler
+
+set_technology = {infantry_weapons = 1
+basic_train = 1}
+oob = "GRN"
+set_popularities = { fascism = 100 }
+set_politics = { ruling_party = fascism
+last_election = "1000.1.1"
+election_frequency = 48
+elections_allowed = no}

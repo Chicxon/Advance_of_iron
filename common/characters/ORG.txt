@@ -1,0 +1,101 @@
+characters = {
+    ORG_Andy = {
+        name = ORG_Andy
+        corps_commander = {
+            traits = { engineer_officer trait_engineer scavenger expert_improviser}
+            skill=3
+            attack_skill=3
+            defense_skill=3
+            planning_skill=2
+            logistics_skill=3
+        }
+    }
+    ORG_Max = {
+        name = ORG_Max
+        corps_commander = {
+            traits = {brave inflexible_strategist fortress_buster}
+            skill=3
+            attack_skill=3
+            defense_skill=4
+            planning_skill=2
+            logistics_skill=2
+        }
+    }
+    ORG_Sami = {
+        name = ORG_Sami
+        gender = female
+        corps_commander = {
+            traits = {infantry_officer infantry_leader infantry_expert expert_improviser commando}
+            skill=4
+            attack_skill=3
+            defense_skill=2
+            planning_skill=5
+            logistics_skill=4
+        }
+    }
+    ORG_Nell = {
+        name = ORG_Nell
+        gender = female
+        field_marshal = {
+            traits = {organizer organisational_leader charismatic}
+            skill=4
+            attack_skill=4
+            defense_skill=4
+            planning_skill=4
+            logistics_skill=4
+        }
+    }
+    ORG_Jake = {
+        name = ORG_Jake
+        corps_commander = {
+            traits = {armor_officer panzer_leader bearer_of_artillery }
+            skill=2
+            attack_skill=3
+            defense_skill=2
+            planning_skill=2
+            logistics_skill=3
+        }
+    }
+    ORG_Rachel = {
+        name = ORG_Rachel
+        gender = female
+        corps_commander = {
+            traits = {engineer_officer trait_engineer scavenger bearer_of_artillery fortress_buster}
+            skill=3
+            attack_skill=4
+            defense_skill=2
+            planning_skill=3
+            logistics_skill=5
+        }
+    }
+    ORG_Hachi = {
+        name = ORG_Hachi
+        country_leader = {
+			ideology = liberalism
+			expire = "1965.1.1.1"
+		}
+        field_marshal = {
+            traits = {old_guard politically_connected scavenger urban_assault_specialist logistics_wizard}
+            skill=4
+            attack_skill=3
+            defense_skill=3
+            planning_skill=4
+            logistics_skill=6
+        }
+    }
+    ORG_Yuan_Delta = {
+        name = ORG_Yuan_Delta
+        country_leader = {
+			ideology = marxism
+			expire = "1965.1.1.1"
+		}
+        field_marshal = {
+            traits = {old_guard brilliant_strategist trickster adaptable thorough_planner}
+            skill=5
+            attack_skill=5
+            defense_skill=5
+            planning_skill=5
+            logistics_skill=5
+        }
+    }
+}

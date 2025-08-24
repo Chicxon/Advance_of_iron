@@ -1,0 +1,117 @@
+characters = {
+
+	### KANBEI ###
+
+	YEL_Kanbei = {
+		name = YEL_Kanbei 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_YEL_kanbei
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "1965.1.1.1"
+		}
+		field_marshal={
+			traits={ politically_connected reckless brave aggressive_assaulter offensive_doctrine inspirational_leader}
+			skill=4
+			attack_skill=5
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=-1
+		}
+
+	}
+	YEL_AdmKanbei = {
+		name = YEL_Kanbei
+		navy_leader={
+			traits = { old_guard_navy naval_lineage bold ironside}
+			skill=3
+			attack_skill=5
+			defense_skill=4
+			maneuvering_skill=1
+			coordination_skill=2
+		}
+	}
+
+	### SONJA ###
+
+	YEL_Sonja = {
+		name = YEL_Sonja
+		gender = female
+		corps_commander={
+			traits={ trickster ambusher trait_cautious}
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+		}
+
+	}
+	YEL_AdmSonja = {
+		name = YEL_Sonja
+		gender = female
+		navy_leader={
+			traits={spotter superior_tactician search_pattern_expert concealment_expert}
+			skill=4
+			attack_skill=3
+			defense_skill=4
+			maneuvering_skill=4
+			coordination_skill=4
+		}
+	}
+
+	### SENSEI ###
+
+	YEL_Sensei = {
+		name = YEL_Sensei
+		corps_commander={
+			traits={ old_guard infantry_leader brave commando paratrooper }
+			skill=5
+			attack_skill=4
+			defense_skill=4
+			planning_skill=4
+			logistics_skill=5
+		}
+	}
+	YEL_AdmSensei = {
+		name = YEL_Sensei
+		navy_leader={
+			traits={ old_guard_navy aviation_enthusiast }
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=2
+			coordination_skill=2
+		}
+	}
+
+	### GRIMM ###
+
+	YEL_Grimm = {
+		name = YEL_Grimm
+		corps_commander={
+			traits={media_personality brilliant_strategist reckless brave }
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=2
+		}
+
+	}
+	YEL_AdmGrimm = {
+		name = YEL_Grimm
+		navy_leader={
+			traits={navy_media_personality bold cuts_corners}
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=3
+			logistics_skill=1
+		}
+	}
+}

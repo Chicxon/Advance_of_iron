@@ -1,12 +1,10 @@
-ZBK = { color = rgb { 0 205 38 }
+GRN = { color = rgb { 0 205 38 }
 color_ui = rgb { 0 205 38 }}
-ZF6 = { color = rgb { 10 63 255 }
+BLU = { color = rgb { 10 63 255 }
 color_ui = rgb { 10 63 255 }}
-RLX = { color = rgb { 82 82 82 }
+BLK = { color = rgb { 82 82 82 }
 color_ui = rgb { 82 82 82 }}
-Z63 = { color = rgb { 134 134 134 }
-color_ui = rgb { 134 134 134 }}
-A0D = { color = rgb { 212 50 8 }
+ORG = { color = rgb { 212 50 8 }
 color_ui = rgb { 212 50 8 }}
-P7V = { color = rgb { 252 250 4 }
+YEL = { color = rgb { 252 250 4 }
 color_ui = rgb { 252 250 4 }}
