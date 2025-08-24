@@ -1,0 +1,24 @@
+state = {
+	id = 70
+	name = "STATE_70"
+	manpower = 4791314
+	resources = {
+		steel = 7
+	}
+	state_category = rural
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			989 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		975 985 989 999 1020 1027 1066 1073 1074 1101 
+	}
+	local_supplies=0.0
+}

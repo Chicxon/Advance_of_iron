@@ -1,0 +1,25 @@
+state = {
+	id = 24
+	name = "STATE_24"
+	manpower = 3870145
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			409 1
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 4
+		}
+	}
+	provinces = {
+		387 409 415 462 473 492 
+	}
+	local_supplies=0.0
+}

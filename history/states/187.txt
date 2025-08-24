@@ -1,0 +1,26 @@
+state = {
+	id = 187
+	name = "STATE_187"
+	manpower = 945483
+	resources = {
+		steel = 10
+	}
+	state_category = large_town
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1975 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+	provinces = {
+		1884 1890 1912 1918 1941 1961 1963 1975 1983 2019 2023 2026 
+	}
+	local_supplies=0.0
+}

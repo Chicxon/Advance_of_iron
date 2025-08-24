@@ -1,0 +1,23 @@
+state = {
+	id = 173
+	name = "STATE_173"
+	manpower = 4994226
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1811 1
+		}
+		buildings = {
+			infrastructure = 0
+			air_base = 3
+		}
+	}
+	provinces = {
+		1780 1810 1811 1812 1825 1860 1871 1879 
+	}
+	local_supplies=0.0
+}

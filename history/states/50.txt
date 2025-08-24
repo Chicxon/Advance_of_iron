@@ -1,0 +1,24 @@
+state = {
+	id = 50
+	name = "STATE_50"
+	manpower = 614869
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1105 1
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		1070 1072 1083 1105 1114 1131 1132 1180 1183 1195 
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 239
+	name = "STATE_239"
+	manpower = 1800119
+	resources = {
+	}
+	state_category = large_city
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1986 1
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+		}
+	}
+	provinces = {
+		1927 1943 1962 1979 1986 1998 
+	}
+	local_supplies=0.0
+}

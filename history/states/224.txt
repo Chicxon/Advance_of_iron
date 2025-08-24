@@ -1,0 +1,23 @@
+state = {
+	id = 224
+	name = "STATE_224"
+	manpower = 1819718
+	resources = {
+	}
+	state_category = rural
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			656 1
+		}
+		buildings = {
+			infrastructure = 0
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		633 656 663 674 
+	}
+	local_supplies=0.0
+}

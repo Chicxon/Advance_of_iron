@@ -1,0 +1,23 @@
+state = {
+	id = 137
+	name = "STATE_137"
+	manpower = 2312670
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			949 1
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+		}
+	}
+	provinces = {
+		871 877 896 924 949 951 1015 
+	}
+	local_supplies=0.0
+}

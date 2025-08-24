@@ -1,0 +1,22 @@
+state = {
+	id = 238
+	name = "STATE_238"
+	manpower = 2295562
+	resources = {
+	}
+	state_category = city
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1582 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces = {
+		1582 1627 1633 1654 
+	}
+	local_supplies=0.0
+}

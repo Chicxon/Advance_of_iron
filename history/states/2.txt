@@ -1,0 +1,23 @@
+state = {
+	id = 2
+	name = "STATE_2"
+	manpower = 2952343
+	resources = {
+		steel = 75
+	}
+	state_category = rural
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			2012 1
+		}
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces = {
+		2012 2020 2029 2038 2066 2082 2091 
+	}
+	local_supplies=0.0
+}

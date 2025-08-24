@@ -1,0 +1,24 @@
+state = {
+	id = 104
+	name = "STATE_104"
+	manpower = 2372957
+	resources = {
+	}
+	state_category = large_town
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1500 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		1458 1490 1500 1526 1552 1581 1585 1587 
+	}
+	local_supplies=0.0
+}

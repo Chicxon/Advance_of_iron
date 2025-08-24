@@ -1,0 +1,24 @@
+state = {
+	id = 161
+	name = "STATE_161"
+	manpower = 2484547
+	resources = {
+	}
+	state_category = megalopolis
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			583 1
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 2
+			air_base = 5
+		}
+	}
+	provinces = {
+		538 551 561 583 592 615 643 646 
+	}
+	local_supplies=0.0
+}

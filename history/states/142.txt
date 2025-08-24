@@ -1,0 +1,23 @@
+state = {
+	id = 142
+	name = "STATE_142"
+	manpower = 4725846
+	resources = {
+	}
+	state_category = large_town
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1844 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 6
+		}
+	}
+	provinces = {
+		1786 1790 1801 1809 1831 1844 1846 1869 1882 1897 
+	}
+	local_supplies=0.0
+}

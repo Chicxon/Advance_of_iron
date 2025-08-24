@@ -1,0 +1,23 @@
+state = {
+	id = 240
+	name = "STATE_240"
+	manpower = 4354953
+	resources = {
+	}
+	state_category = large_town
+	history = {
+		owner = RLX
+		add_core_of = RLX
+		victory_points = {
+			2180 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	provinces = {
+		2149 2150 2152 2160 2168 2173 2174 2177 2180 2190 2192 2196 2198 2213 
+	}
+	local_supplies=0.0
+}

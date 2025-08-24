@@ -1,0 +1,24 @@
+state = {
+	id = 131
+	name = "STATE_131"
+	manpower = 1983728
+	resources = {
+	}
+	state_category = city
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1476 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		1440 1461 1468 1476 1509 1516 
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 85
+	name = "STATE_85"
+	manpower = 3311449
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			889 1
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+		}
+	}
+	provinces = {
+		862 889 983 
+	}
+	local_supplies=0.0
+}

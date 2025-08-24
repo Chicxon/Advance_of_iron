@@ -1,0 +1,24 @@
+state = {
+	id = 164
+	name = "STATE_164"
+	manpower = 4154662
+	resources = {
+	}
+	state_category = city
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			629 1
+		}
+		buildings = {
+			infrastructure = 0
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		629 679 
+	}
+	local_supplies=0.0
+}

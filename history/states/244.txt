@@ -1,0 +1,24 @@
+state = {
+	id = 244
+	name = "STATE_244"
+	manpower = 513613
+	resources = {
+		tungsten = 47
+	}
+	state_category = city
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1726 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+		}
+	}
+	provinces = {
+		1688 1697 1720 1726 1761 
+	}
+	local_supplies=0.0
+}

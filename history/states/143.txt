@@ -1,0 +1,25 @@
+state = {
+	id = 143
+	name = "STATE_143"
+	manpower = 1392298
+	resources = {
+		steel = 7
+	}
+	state_category = megalopolis
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1250 1
+		}
+		buildings = {
+			infrastructure = 0
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		1204 1250 1306 
+	}
+	local_supplies=0.0
+}

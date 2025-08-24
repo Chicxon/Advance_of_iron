@@ -1,0 +1,22 @@
+state = {
+	id = 45
+	name = "STATE_45"
+	manpower = 3828666
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			712 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		712 717 726 807 827 844 851 878 894 
+	}
+	local_supplies=0.0
+}

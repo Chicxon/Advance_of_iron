@@ -1,0 +1,24 @@
+state = {
+	id = 23
+	name = "STATE_23"
+	manpower = 4407632
+	resources = {
+	}
+	state_category = rural
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			928 1
+		}
+		buildings = {
+			infrastructure = 0
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		864 865 910 928 950 957 998 
+	}
+	local_supplies=0.0
+}

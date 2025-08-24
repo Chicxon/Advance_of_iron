@@ -1,0 +1,22 @@
+state = {
+	id = 156
+	name = "STATE_156"
+	manpower = 4665703
+	resources = {
+	}
+	state_category = city
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			2106 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		2044 2051 2053 2062 2072 2086 2101 2105 2106 2123 2134 
+	}
+	local_supplies=0.0
+}

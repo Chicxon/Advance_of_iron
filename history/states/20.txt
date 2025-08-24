@@ -1,0 +1,23 @@
+state = {
+	id = 20
+	name = "STATE_20"
+	manpower = 971929
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			945 1
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		873 874 944 945 952 994 1031 1040 
+	}
+	local_supplies=0.0
+}

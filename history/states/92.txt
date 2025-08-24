@@ -1,0 +1,22 @@
+state = {
+	id = 92
+	name = "STATE_92"
+	manpower = 4732018
+	resources = {
+	}
+	state_category = megalopolis
+	history = {
+		owner = RLX
+		add_core_of = RLX
+		victory_points = {
+			2113 20
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		2067 2068 2083 2088 2104 2111 2113 2118 2122 2125 2141 
+	}
+	local_supplies=0.0
+}

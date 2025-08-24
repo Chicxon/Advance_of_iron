@@ -1,0 +1,23 @@
+state = {
+	id = 14
+	name = "STATE_14"
+	manpower = 1839220
+	resources = {
+	}
+	state_category = large_town
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			207 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		139 172 177 201 203 207 243 269 274 287 297 
+	}
+	local_supplies=0.0
+}

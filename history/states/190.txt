@@ -1,0 +1,23 @@
+state = {
+	id = 190
+	name = "STATE_190"
+	manpower = 1278677
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			1229 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		1165 1186 1199 1229 1234 1262 1286 1318 1343 
+	}
+	local_supplies=0.0
+}

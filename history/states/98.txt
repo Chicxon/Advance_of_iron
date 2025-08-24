@@ -1,0 +1,22 @@
+state = {
+	id = 98
+	name = "STATE_98"
+	manpower = 4274765
+	resources = {
+	}
+	state_category = large_town
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			1814 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1748 1764 1771 1782 1785 1804 1805 1814 1820 1829 1830 1852 1862 1866 
+	}
+	local_supplies=0.0
+}

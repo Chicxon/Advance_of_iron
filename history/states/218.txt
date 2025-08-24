@@ -1,0 +1,23 @@
+state = {
+	id = 218
+	name = "STATE_218"
+	manpower = 4776023
+	resources = {
+	}
+	state_category = megalopolis
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1718 1
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		1653 1671 1676 1678 1693 1718 1734 1735 1765 1781 
+	}
+	local_supplies=0.0
+}

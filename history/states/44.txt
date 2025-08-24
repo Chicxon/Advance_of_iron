@@ -1,0 +1,24 @@
+state = {
+	id = 44
+	name = "STATE_44"
+	manpower = 535242
+	resources = {
+	}
+	state_category = city
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1432 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 4
+		}
+	}
+	provinces = {
+		1367 1392 1432 1433 1485 
+	}
+	local_supplies=0.0
+}

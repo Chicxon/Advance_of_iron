@@ -1,0 +1,23 @@
+state = {
+	id = 37
+	name = "STATE_37"
+	manpower = 2800304
+	resources = {
+		tungsten = 13
+	}
+	state_category = megalopolis
+	history = {
+		owner = ZF6
+		add_core_of = ZF6
+		victory_points = {
+			234 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces = {
+		192 202 227 231 234 279 280 
+	}
+	local_supplies=0.0
+}

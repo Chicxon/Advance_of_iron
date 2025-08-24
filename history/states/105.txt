@@ -1,0 +1,24 @@
+state = {
+	id = 105
+	name = "STATE_105"
+	manpower = 1991779
+	resources = {
+		rubber = 26
+	}
+	state_category = large_city
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			1511 20
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+		}
+	}
+	provinces = {
+		1434 1456 1477 1489 1497 1510 1511 1549 1583 1636 
+	}
+	local_supplies=0.0
+}

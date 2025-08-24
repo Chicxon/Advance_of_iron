@@ -1,0 +1,23 @@
+state = {
+	id = 174
+	name = "STATE_174"
+	manpower = 2946485
+	resources = {
+		oil = 48
+	}
+	state_category = megalopolis
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			253 1
+		}
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces = {
+		218 253 260 318 319 
+	}
+	local_supplies=0.0
+}

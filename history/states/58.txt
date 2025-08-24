@@ -1,0 +1,22 @@
+state = {
+	id = 58
+	name = "STATE_58"
+	manpower = 4797605
+	resources = {
+	}
+	state_category = megalopolis
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			1056 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		963 971 986 1037 1056 1060 1065 1068 1109 1116 1129 1136 
+	}
+	local_supplies=0.0
+}

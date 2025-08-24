@@ -1,0 +1,26 @@
+state = {
+	id = 188
+	name = "STATE_188"
+	manpower = 666614
+	resources = {
+		steel = 34
+	}
+	state_category = city
+	history = {
+		owner = ZBK
+		add_core_of = ZBK
+		victory_points = {
+			1739 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+		}
+	}
+	provinces = {
+		1656 1672 1689 1710 1727 1739 1755 1768 1776 1779 
+	}
+	local_supplies=0.0
+}

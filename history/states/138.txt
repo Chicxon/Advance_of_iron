@@ -1,0 +1,24 @@
+state = {
+	id = 138
+	name = "STATE_138"
+	manpower = 954911
+	resources = {
+	}
+	state_category = rural
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1008 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		909 931 962 1008 1043 1044 1053 1090 1098 
+	}
+	local_supplies=0.0
+}

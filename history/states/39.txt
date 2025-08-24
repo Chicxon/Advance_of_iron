@@ -1,0 +1,23 @@
+state = {
+	id = 39
+	name = "STATE_39"
+	manpower = 3799582
+	resources = {
+	}
+	state_category = large_city
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1985 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	provinces = {
+		1911 1940 1964 1985 2005 2021 2034 2043 
+	}
+	local_supplies=0.0
+}

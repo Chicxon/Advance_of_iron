@@ -1,0 +1,23 @@
+state = {
+	id = 22
+	name = "STATE_22"
+	manpower = 2454800
+	resources = {
+	}
+	state_category = metropolis
+	history = {
+		owner = P7V
+		add_core_of = P7V
+		victory_points = {
+			1969 1
+		}
+		buildings = {
+			infrastructure = 0
+			air_base = 5
+		}
+	}
+	provinces = {
+		1929 1969 1970 1977 2027 2036 2060 
+	}
+	local_supplies=0.0
+}

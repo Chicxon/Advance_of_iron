@@ -1,0 +1,24 @@
+state = {
+	id = 136
+	name = "STATE_136"
+	manpower = 3977857
+	resources = {
+		steel = 7
+	}
+	state_category = city
+	history = {
+		owner = A0D
+		add_core_of = A0D
+		victory_points = {
+			634 1
+		}
+		buildings = {
+			infrastructure = 0
+			air_base = 5
+		}
+	}
+	provinces = {
+		581 599 612 634 648 667 
+	}
+	local_supplies=0.0
+}
