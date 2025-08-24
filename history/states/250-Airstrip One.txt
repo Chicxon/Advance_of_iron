@@ -1,0 +1,27 @@
+state = {
+	id = 250
+	name = "STATE_250"
+	manpower = 20150
+	resources = {
+	}
+	state_category = small_island
+	history = {
+		owner = BLK
+		add_core_of = BLK
+		victory_points = {
+			2200 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 5
+            2200 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces = {
+		2200
+	}
+	local_supplies=0.0
+}

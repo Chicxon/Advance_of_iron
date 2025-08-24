@@ -1,25 +1,23 @@
-state = {
-	id = 139
-	name = "STATE_139"
-	manpower = 1452408
-	resources = {
-		aluminium = 45
+state={
+	id=139
+	name="STATE_139"
+	resources={
+		aluminium=45.000
 	}
-	state_category = large_town
+	provinces={
+		76 80 105 133 
+	}
+	manpower=1452408
+	buildings_max_level_factor=1.000
+	state_category=large_town
 	history = {
 		owner = BLU
 		add_core_of = BLU
-		victory_points = {
-			76 1
-		}
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			air_base = 6
+			infrastructure = 0
+			industrial_complex = 1
+			air_base = 4
 		}
 	}
-	provinces = {
-		76 80 105 133 166 
-	}
-	local_supplies=0.0
+	local_supplies=0.000
 }
