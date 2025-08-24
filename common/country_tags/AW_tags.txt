@@ -1,0 +1,5 @@
+GRN = "countries/GRN.txt"
+BLU = "countries/BLU.txt"
+BLK = "countries/BLK.txt"
+ORG = "countries/ORG.txt"
+YEL = "countries/YEL.txt"

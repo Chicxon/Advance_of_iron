@@ -1,6 +1,0 @@
-ZBK = "countries/ZBK.txt"
-ZF6 = "countries/ZF6.txt"
-RLX = "countries/RLX.txt"
-Z63 = "countries/Z63.txt"
-A0D = "countries/A0D.txt"
-P7V = "countries/P7V.txt"

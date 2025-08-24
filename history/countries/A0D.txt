@@ -1,9 +1,0 @@
-capital = 154
-set_technology = {infantry_weapons = 1
-basic_train = 1}
-oob = "A0D"
-set_popularities = { fascism = 100 }
-set_politics = { ruling_party = fascism
-last_election = "1000.1.1"
-election_frequency = 48
-elections_allowed = no}
