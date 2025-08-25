@@ -1,13 +1,13 @@
 state={
-	id=26
-	name="STATE_26"
+	id=252
+	name="STATE_252"
 	provinces={
-		869 890 
+		2157 2158 
 	}
-	manpower=4526132
+	manpower=0
 	buildings_max_level_factor=1.000
-	state_category=large_city
 	local_supplies=0.000
+	state_category=rural
 	history = {
 		owner = ORG
 		add_core_of = ORG

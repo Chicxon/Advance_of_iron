@@ -1,23 +1,15 @@
-state = {
-	id = 78
-	name = "STATE_78"
-	manpower = 2817588
-	resources = {
+state={
+	id=78
+	name="STATE_78"
+	provinces={
+		953 964 972 997 1001 1005 1049 1050 1061 1084 1085 
 	}
-	state_category = large_town
+	manpower=2817588
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
 	history = {
 		owner = ORG
 		add_core_of = ORG
-		victory_points = {
-			1005 1
-		}
-		buildings = {
-			infrastructure = 4
-			arms_factory = 1
-		}
 	}
-	provinces = {
-		964 972 997 1001 1005 1049 1050 1061 1084 1085 
-	}
-	local_supplies=0.0
 }
