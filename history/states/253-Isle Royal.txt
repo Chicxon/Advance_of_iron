@@ -1,0 +1,20 @@
+state={
+	id=253
+	name="STATE_253"
+	provinces={
+		2066 2082 2091 
+	}
+	manpower=200303
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+	history = {
+		owner = ORG
+		add_core_of = ORG
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+}

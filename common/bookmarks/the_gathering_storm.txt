@@ -1,11 +1,15 @@
 bookmarks = {
 bookmark = {
-name = "GATHERING_STORM_NAME"
-desc = "GATHERING_STORM_DESC"
-date = 1936.1.1.12
+name = "WARS_WORLD_BM_NAME"
+desc = "Insert desc here"
+date = 2001.9.10.1
 picture = "GFX_select_date_1936"
-default_country = "BLU"
+default_country = "ORG"
 default = yes
+"ORG"={}
 "BLU"={}
+"YEL"={}
+"GRN"={}
+"BLK"={}
 effect = { randomize_weather = 22345}
 }}
