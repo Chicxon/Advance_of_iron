@@ -74,6 +74,11 @@ characters = {
 			ideology = liberalism
 			expire = "1965.1.1.1"
 		}
+        portraits = {
+			civilian = {
+				large = GFX_portrait_ORG_hachi
+			}
+		}
         field_marshal = {
             traits = {old_guard politically_connected scavenger urban_assault_specialist logistics_wizard}
             skill=4

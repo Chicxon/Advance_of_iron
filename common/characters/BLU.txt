@@ -1,9 +1,13 @@
 characters = {
     BLU_Olaf = {
         name=BLU_Olaf
+        portraits = {
+			army = {
+				large = GFX_portrait_BLU_olaf
+			}
+		}
 		country_leader = {
 			ideology = conservatism
-			expire = "1965.1.1.1"
 		}
         field_marshal={
             traits={old_guard politically_connected inflexible_strategist winter_specialist winter_expert}
@@ -16,17 +20,27 @@ characters = {
     }
     BLU_Grit = {
         name=BLU_Grit
+        portraits = {
+			army = {
+				large = GFX_portrait_BLU_grit
+			}
+		}
         corps_commander={
             traits={bearer_of_artillery trickster ambusher ranger}
-            skill=4
+            skill=5
             attack_skill=3
-            defense_skill=4
-            planning_skill=5
+            defense_skill=5
+            planning_skill=6
             logistics_skill=2
         }
     }
     BLU_Colin = {
         name=BLU_Colin
+        portraits = {
+			army = {
+				large = GFX_portrait_BLU_colin
+			}
+		}
         corps_commander={
             traits={scavenger}
             skill=2
@@ -38,6 +52,11 @@ characters = {
     }
     BLU_Sasha = {
         name=BLU_Sasha
+        portraits = {
+			army = {
+				large = GFX_portrait_BLU_sasha
+			}
+		}
         corps_commander={
             traits={scavenger trickster}
             skill=2
@@ -49,6 +68,11 @@ characters = {
     }
     BLU_Rogenski = {
         name=BLU_Rogenski
+        portraits = {
+			civilian = {
+				large = GFX_portrait_BLU_rogenski
+			}
+		}
         country_leader = {
             ideology = despotism
         }

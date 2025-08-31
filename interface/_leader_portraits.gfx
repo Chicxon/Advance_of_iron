@@ -1,7 +1,100 @@
 spriteTypes = {
+	### ORANGE STAR
+
+	spriteType = {
+		name = GFX_portrait_ORG_hachi
+		texturefile = "gfx/leaders/ORG/Portrait_ORG_Hachi.dds"
+	}
+
+	### BLUE MOON
+
+	spriteType = {
+		name = GFX_portrait_BLU_rogenski
+		texturefile = "gfx/leaders/BLU/Portrait_BLU_Rogenski.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLU_olaf
+		texturefile = "gfx/leaders/BLU/Portrait_BLU_Olaf.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLU_grit
+		texturefile = "gfx/leaders/BLU/Portrait_BLU_Grit.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLU_colin
+		texturefile = "gfx/leaders/BLU/Portrait_BLU_Colin.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLU_sasha
+		texturefile = "gfx/leaders/BLU/Portrait_BLU_Sasha.dds"
+	}
+
+	### YELLOW COMET
+
 	spriteType = {
 		name = GFX_portrait_YEL_kanbei
 		texturefile = "gfx/leaders/YEL/Portrait_YEL_Kanbei.dds"
 	}
+	spriteType = {
+		name = GFX_portrait_YEL_sonja
+		texturefile = "gfx/leaders/YEL/Portrait_YEL_Sonja.dds"
+	}
 
+	### GREEN EARTH
+
+	spriteType = {
+		name = GFX_portrait_GRN_hetler
+		texturefile = "gfx/leaders/GRN/Portrait_GRN_Hetler.dds"
+	}
+
+	### BLACK HOLE
+
+	spriteType = {
+		name = GFX_portrait_BLK_sturm
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Sturm.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_hawke
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Hawke.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_flak
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Flak.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_adder
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Adder.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_lash
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Lash.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_von_bolt
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Von_Bolt.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_jugger
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Jugger.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_koal
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Koal.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BLK_kindle
+		texturefile = "gfx/leaders/BLK/Portrait_BLK_Kindle.dds"
+	}
 }

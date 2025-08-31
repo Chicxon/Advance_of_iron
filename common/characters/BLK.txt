@@ -1,0 +1,155 @@
+characters = {
+    BLK_Sturm = {
+        name=BLK_Sturm
+        portraits = {
+			civilian = {
+				large = GFX_portrait_BLK_sturm
+			}
+            army = {
+				large = GFX_portrait_BLK_sturm
+			}
+		}
+        field_marshal={
+            traits={politically_connected harsh_leader adaptable offensive_doctrine aggressive_assaulter}
+            skill=9
+            attack_skill=9
+            defense_skill=9
+            planning_skill=8
+            logistics_skill=8
+        }
+    }
+    BLK_Hawke = {
+        name=BLK_Hawke
+        portraits = {
+			civilian = {
+				large = GFX_portrait_BLK_hawke
+			}
+            army = {
+				large = GFX_portrait_BLK_hawke
+			}
+		}
+        country_leader = {
+			ideology = fascism_ideology #Temporary for getting a screenshot
+		}
+        field_marshal={
+            traits={brilliant_strategist}
+            skill=5
+            attack_skill=5
+            defense_skill=4
+            planning_skill=5
+            logistics_skill=4
+        }
+    }
+    BLK_Flak = {
+        name=BLK_Flak
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_flak
+			}
+		}
+        corps_commander={
+            traits={harsh_leader}
+            skill=1
+            attack_skill=1
+            defense_skill=1
+            planning_skill=1
+            logistics_skill=1
+        }
+    }
+    BLK_Lash = {
+        name=BLK_Lash
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_lash
+			}
+		}
+        corps_commander={
+            traits={trait_engineer ranger mountaineer adaptable}
+            skill=4
+            attack_skill=3
+            defense_skill=4
+            planning_skill=4
+            logistics_skill=2
+        }
+    }
+    BLK_Adder = {
+        name=BLK_Adder
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_adder
+			}
+		}
+        corps_commander={
+            traits={organizer}
+            skill=3
+            attack_skill=2
+            defense_skill=2
+            planning_skill=4
+            logistics_skill=3
+        }
+    }
+    BLK_Von_Bolt = {
+        name=BLK_Von_Bolt
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_von_bolt
+			}
+		}
+        field_marshal={
+            traits={}
+            skill=4
+            attack_skill=5
+            defense_skill=3
+            planning_skill=6
+            logistics_skill=4
+        }
+    }
+    BLK_Jugger = {
+        name=BLK_Jugger
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_jugger
+			}
+		}
+        corps_commander={
+            traits={}
+            skill=1
+            attack_skill=1
+            defense_skill=1
+            planning_skill=1
+            logistics_skill=1
+        }
+    }
+    BLK_Koal = {
+        name=BLK_Koal
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_koal
+			}
+		}
+        corps_commander={
+            traits={organizer}
+            skill=3
+            attack_skill=3
+            defense_skill=2
+            planning_skill=3
+            logistics_skill=3
+        }
+    }
+    BLK_Kindle = {
+        name=BLK_Kindle
+        portraits = {
+            army = {
+				large = GFX_portrait_BLK_kindle
+			}
+		}
+        corps_commander={
+            traits={urban_assault_specialist}
+            skill=3
+            attack_skill=3
+            defense_skill=2
+            planning_skill=3
+            logistics_skill=3
+        }
+    }
+}

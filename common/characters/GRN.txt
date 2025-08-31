@@ -47,8 +47,12 @@ characters = {
     GRN_Hetler = {
         name=GRN_Hetler
         country_leader = {
-			ideology = fascism
-			expire = "1965.1.1.1"
+			ideology = fascism_ideology
+		}
+        portraits = {
+			civilian = {
+				large = GFX_portrait_GRN_hetler
+			}
 		}
         field_marshal={
             traits={politically_connected media_personality trait_cautious harsh_leader}

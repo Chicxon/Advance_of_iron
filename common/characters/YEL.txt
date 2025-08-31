@@ -11,7 +11,6 @@ characters = {
 		}
 		country_leader = {
 			ideology = conservatism
-			expire = "1965.1.1.1"
 		}
 		field_marshal={
 			traits={ politically_connected reckless brave aggressive_assaulter offensive_doctrine inspirational_leader}
@@ -26,6 +25,11 @@ characters = {
 	}
 	YEL_AdmKanbei = {
 		name = YEL_Kanbei
+		portraits = {
+			navy = {
+				large = GFX_portrait_YEL_kanbei
+			}
+		}
 		navy_leader={
 			traits = { old_guard_navy naval_lineage bold ironside}
 			skill=3
@@ -41,6 +45,11 @@ characters = {
 	YEL_Sonja = {
 		name = YEL_Sonja
 		gender = female
+		portraits = {
+			civilian = {
+				large = GFX_portrait_YEL_sonja
+			}
+		}
 		corps_commander={
 			traits={ trickster ambusher trait_cautious}
 			skill=3
@@ -54,6 +63,11 @@ characters = {
 	YEL_AdmSonja = {
 		name = YEL_Sonja
 		gender = female
+		portraits = {
+			navy = {
+				large = GFX_portrait_YEL_sonja
+			}
+		}
 		navy_leader={
 			traits={spotter superior_tactician search_pattern_expert concealment_expert}
 			skill=4
