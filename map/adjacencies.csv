@@ -1,2 +1,15 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+2029;2066;sea;1937;-1;-1;-1;-1;;Yoop-Isle Royal
+2063;2079;sea;1865;-1;-1;-1;-1;;NW OS Island
+953;890;sea;691;-1;-1;-1;-1;;OS Channel Island
+697;783;sea;714;-1;-1;-1;-1;;BM Central Lake
+671;595;sea;501;-1;-1;-1;-1;;BM East Bay
+157;100;sea;103;-1;-1;-1;-1;;BM-CobaltIsland
+2040;2011;sea;1896;-1;-1;-1;-1;;North YC
+1952;1995;sea;2004;-1;-1;-1;-1;;North YC
+726;712;sea;430;-1;-1;-1;-1;;South YC offshore islands
+1537;1485;sea;1508;-1;-1;-1;-1;;West YC Gulf
+1261;1322;sea;956;-1;-1;-1;-1;;East YC Bay
+679;662;sea;548;-1;-1;-1;-1;;West GE "Island"
+679;757;sea;548;-1;-1;-1;-1;;West GE "Island"
 -1;-1;;-1;-1;-1;-1;-1;-1
