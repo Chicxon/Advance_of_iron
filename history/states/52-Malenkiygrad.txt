@@ -9,7 +9,7 @@ state = {
 		owner = BLU
 		add_core_of = BLU
 		victory_points = {
-			697 1
+			711 50
 		}
 		buildings = {
 			infrastructure = 4

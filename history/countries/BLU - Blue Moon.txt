@@ -1,4 +1,4 @@
-capital = 207
+capital = 52
 
 recruit_character=BLU_Rogenski
 recruit_character=BLU_Olaf
